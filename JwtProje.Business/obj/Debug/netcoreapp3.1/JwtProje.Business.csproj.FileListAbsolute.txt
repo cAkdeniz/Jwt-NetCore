@@ -1,0 +1,14 @@
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.Business\bin\Debug\netcoreapp3.1\JwtProje.Business.deps.json
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.Business\bin\Debug\netcoreapp3.1\JwtProje.Business.dll
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.Business\bin\Debug\netcoreapp3.1\JwtProje.Business.pdb
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.Business\bin\Debug\netcoreapp3.1\JwtProje.DataAccess.dll
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.Business\bin\Debug\netcoreapp3.1\JwtProje.Entities.dll
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.Business\bin\Debug\netcoreapp3.1\JwtProje.DataAccess.pdb
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.Business\bin\Debug\netcoreapp3.1\JwtProje.Entities.pdb
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.Business\obj\Debug\netcoreapp3.1\JwtProje.Business.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.Business\obj\Debug\netcoreapp3.1\JwtProje.Business.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.Business\obj\Debug\netcoreapp3.1\JwtProje.Business.AssemblyInfo.cs
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.Business\obj\Debug\netcoreapp3.1\JwtProje.Business.csproj.CopyComplete
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.Business\obj\Debug\netcoreapp3.1\JwtProje.Business.dll
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.Business\obj\Debug\netcoreapp3.1\JwtProje.Business.pdb
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.Business\obj\Debug\netcoreapp3.1\JwtProje.Business.csproj.CoreCompileInputs.cache

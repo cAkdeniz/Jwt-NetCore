@@ -1,0 +1,15 @@
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.DataAccess\bin\Debug\netcoreapp3.1\JwtProje.DataAccess.deps.json
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.DataAccess\bin\Debug\netcoreapp3.1\JwtProje.DataAccess.dll
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.DataAccess\obj\Debug\netcoreapp3.1\JwtProje.DataAccess.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.DataAccess\obj\Debug\netcoreapp3.1\JwtProje.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.DataAccess\obj\Debug\netcoreapp3.1\JwtProje.DataAccess.AssemblyInfo.cs
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.DataAccess\bin\Debug\netcoreapp3.1\JwtProje.DataAccess.runtimeconfig.json
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.DataAccess\bin\Debug\netcoreapp3.1\JwtProje.DataAccess.runtimeconfig.dev.json
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.DataAccess\obj\Debug\netcoreapp3.1\JwtProje.DataAccess.genruntimeconfig.cache
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.DataAccess\bin\Debug\netcoreapp3.1\JwtProje.DataAccess.pdb
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.DataAccess\bin\Debug\netcoreapp3.1\JwtProje.Entities.dll
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.DataAccess\bin\Debug\netcoreapp3.1\JwtProje.Entities.pdb
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.DataAccess\obj\Debug\netcoreapp3.1\JwtProje.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.DataAccess\obj\Debug\netcoreapp3.1\JwtProje.DataAccess.csproj.CopyComplete
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.DataAccess\obj\Debug\netcoreapp3.1\JwtProje.DataAccess.dll
+C:\Users\User\Documents\C#Projects\JwtProje\JwtProje.DataAccess\obj\Debug\netcoreapp3.1\JwtProje.DataAccess.pdb
